@@ -37,11 +37,11 @@ switch($danh_muc){
     case "Thời trang":
         echo "Sản phẩm thời trang có doanh thu ổn định<br>";
         break;
-    case "Điện tử":
-        echo "Danh mục điện tử";
+    case "Mỹ phẩm":
+        echo "Danh mục mỹ phẩmphẩm";
         break;
-    case "Đồ gia dụng":
-        echo "Danh mục đồ gia dụng";
+    case "Đồ nội thất":
+        echo "Danh mục nội thất";
         break;
     default:
         echo "Danh mục không xác định";

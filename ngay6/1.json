@@ -1,0 +1,24 @@
+{
+    "email_khach_hang": "khanh@gmail.com",
+    "san_pham": [
+        {
+            "ten": "Clean Code",
+            "so_luong": 6,
+            "gia": 150000
+        },
+        {
+            "ten": "Refactoring",
+            "so_luong": 9,
+            "gia": 180000
+        },
+        {
+            "ten": "Design Patterns",
+            "so_luong": 7,
+            "gia": 200000
+        }
+    ],
+    "tong_tien": 3920000,
+    "thoi_gian_tao": "2025-05-15 10:12:24",
+    "so_dien_thoai_khach_hang": "09848246113",
+    "dia_chi_khach_hang": "hgfdja"
+}

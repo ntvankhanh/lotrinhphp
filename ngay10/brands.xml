@@ -1,0 +1,11 @@
+<brands>
+    <brand category="Drink">
+        <name>Boba Tea</name>
+    </brand>
+    <brand category="Drink">
+        <name>Phúc Long</name>
+    </brand>
+    <brand category="Fashion">
+        <name>Nike</name>
+    </brand>
+</brands>
